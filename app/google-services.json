@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "635936627954",
+    "firebase_url": "https://store-new-7be44-default-rtdb.firebaseio.com",
+    "project_id": "store-new-7be44",
+    "storage_bucket": "store-new-7be44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635936627954:android:622edf549c514a1136846b",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCisepBwyojbgoercy6AM_huah0SkBvZrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635936627954:android:1e4263d579b3ed7d36846b",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCisepBwyojbgoercy6AM_huah0SkBvZrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
